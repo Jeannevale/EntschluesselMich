@@ -1,4 +1,4 @@
-from Subfolder.Object_class import Schluessel
+from Object_class import Schluessel
 import time
 
 schluessel=Schluessel()

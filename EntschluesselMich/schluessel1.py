@@ -1,8 +1,8 @@
 import time
 import csv
 import sys
-from Subfolder.Object_class import Schluessel
-from Subfolder.Object_class import Antivirus
+from Object_class import Schluessel
+from Object_class import Antivirus
 
 schluessel=Schluessel()
 
