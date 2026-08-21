@@ -6,7 +6,7 @@ from Object_class import Antivirus
 
 schluessel=Schluessel()
 
-if schluessel.note=="NOE":
+if schluessel.note=="NOTE":
     try:
         raise Antivirus()
     except Antivirus as e:
